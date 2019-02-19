@@ -1,7 +1,5 @@
-# Gestor de Documento 
-
-Control de Farmacia
-
+# Gestor de Proyecto
+Control y administracion de una Farmacia
 # Instalacion
 
 1. 'git clone https://github.com/Mquesos/Consultorio.git'
